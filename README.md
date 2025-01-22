@@ -9,7 +9,7 @@ Compilado de scripts de exemplo de diversos posts do blog Data Lover.
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+...with experience in the Air Transport, Leisure and Financial segment with attributions as revenue management and pricing, supply and demand, forecasting sales, machine learning, process improvement (Green Belt certified), MIS, data analysis using statistical tools, database (collection and processing of data for analysis of trends/patterns and business insights) and data discovery fulfill my professional background.
 
 
 ## 🔗 Links
